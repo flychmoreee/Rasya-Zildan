@@ -106,36 +106,25 @@ export const projects = [
 
 export const testimonials = [
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "Collaborating with Rasya was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+    name: "Zufar Zunkarnain",
+    title: "Backend WebDev from MejaKita",
+    imgSrc: "/profile3.svg", // Replace with the actual image path
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "Working with Rasya was a truly remarkable experience. His professionalism, reliability, and unwavering dedication to achieving outstanding results were clear from the start. Rasya's enthusiasm for every detail of development is genuinely inspiring. If you want to elevate your website and brand, Rasya is the perfect collaborator.",
+    name: "Muuhammad Fawwaz",
+    title: "Mobile Dev from PaperPlay",
+    imgSrc: "/profile2.svg", // Replace with the actual image path
   },
   {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    quote: "Working with Rasya was an outstanding experience. His professionalism, punctuality, and dedication to achieving high-quality results were impressive. Rasya's passion for every facet of development is truly remarkable. If you're looking to improve your website and boost your brand, Rasya is the perfect partner.",
+    name: "Zahwa Afrida",
+    title: "A communication science student from the University Indonesia",
+    imgSrc: "/profile1.svg", // Replace with the actual image path
   },
 ];
+
 
 export const companies = [
   {
