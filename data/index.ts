@@ -120,7 +120,7 @@ export const testimonials = [
   {
     quote: "Working with Rasya was an outstanding experience. His professionalism, punctuality, and dedication to achieving high-quality results were impressive. Rasya's passion for every facet of development is truly remarkable. If you're looking to improve your website and boost your brand, Rasya is the perfect partner.",
     name: "Zahwa Afrida",
-    title: "A communication science student from the University Indonesia",
+    title: "Students in SMK Negeri 4 Malang",
     imgSrc: "/profile1.svg", // Replace with the actual image path
   },
 ];
@@ -169,7 +169,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "Mobile App Dev",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
